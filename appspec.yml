@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: ./test.txt
-    destination: ../test2
+    destination: /root/jan-workspace/codedeploy/test2/
