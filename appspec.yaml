@@ -1,3 +1,3 @@
 files:
   - source: ./test
-    destination: /root/jan-workspace/test
+    destination: ./test2
